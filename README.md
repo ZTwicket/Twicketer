@@ -5,7 +5,7 @@ This bot is provided for educational purposes only. Users are responsible for en
 
 ---
 
-Automated ticket monitoring for Twickets
+Automated ticket monitoring for Twickets. This bot **cannot** buy tickets automatically, it will only open a direct buy link to the tickets.
 
 ## Features
 
