@@ -1,0 +1,13 @@
+{
+  "user": "",
+  "password": "",
+  "event_id": "",
+  "api_key": "",
+  "time_delay": 2.0,
+  "headless": true,
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:101.0) Gecko/20100101 Firefox/101.0",
+  "min_seats": 1,
+  "max_seats": 4,
+  "max_price": 150,
+  "skip_meetup_delivery": true
+}
