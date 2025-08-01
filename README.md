@@ -27,7 +27,7 @@ Automated ticket monitoring for Twickets. This bot **cannot** buy tickets automa
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ZTwicket/Twicketer.git
    cd bot
    ```
 
